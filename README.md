@@ -5,4 +5,4 @@ Fans recreating famous map from CoD2 for new game Battalion 1944, Hope we will f
 
 ## assets:
 - 1:1 ratio wit authentic shoot angels
-- new stunning graphic, using Battalion sreator pack and some original completley new object created specificly for this map
+- new stunning graphic, using Battalion creator pack and some completley new and original objects created specificly for this map
